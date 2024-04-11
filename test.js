@@ -1,1 +1,1 @@
-// nothing yet
+const variable = "This is a variable"
